@@ -25,6 +25,6 @@ me.say_hi()
   <a href="https://www.instagram.com/python_direto_ao_ponto/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/est%C3%AAv%C3%A3o-fonseca-238136150/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-<p align="right">
-	<img src="https://komarev.com/ghpvc/?username=estevaofon&label=Visitors" alt="estevaofon" />
-</p>
+<br>
+
+[![](https://visitcount.itsvg.in/api?id=estevaofon&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
