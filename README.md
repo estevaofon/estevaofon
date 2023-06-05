@@ -4,7 +4,7 @@
 class SoftwareEngineer:
     def __init__(self):
         self.name = "Estevao Fonseca"
-        self.role = ["Software Engineer", "Book Author", "Python Enthusiast"]
+        self.roles = ["Software Engineer", "Book Author", "Python Enthusiast"]
         self.education = "Engineering at Universidade de Brasília"
         self.code_languages = ["Python", "Java", "C", "JavaScript"]
         self.cloud_stack = ["lambda", "step functions", "dynamodb", "S3"]
