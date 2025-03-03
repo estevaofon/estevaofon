@@ -28,3 +28,4 @@ me.say_hi()
 <br>
 
 [![](https://visitcount.itsvg.in/api?id=estevaofon&label=Profile%20Views&color=12&icon=6&pretty=false)](https://visitcount.itsvg.in)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=estevaofon&layout=compact)
