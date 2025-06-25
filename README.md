@@ -1,20 +1,6 @@
 ## Hello World!👋 I'm Estevao
+![outuput](https://github.com/user-attachments/assets/562abbb9-3b58-4d31-9d30-dc6dead57ec1)
 
-```python
-class SoftwareEngineer:
-    def __init__(self):
-        self.name = "Estevao Fonseca"
-        self.roles = ["Software Engineer", "Book Author", "Python Enthusiast"]
-        self.education = "Engineering at Universidade de Brasília"
-        self.code_languages = ["Python", "Java", "C", "JavaScript"]
-        self.cloud_stack = ["lambda", "step functions", "dynamodb", "S3"]
-
-    def say_hi(self):
-        print("Thanks for dropping by!")
-
-me = SoftwareEngineer()
-me.say_hi()
-```
 ## 📈 My GitHub Stats
 
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=estevaofon&show_icons=true&theme=tokyonight)
