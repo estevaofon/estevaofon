@@ -22,7 +22,7 @@ me.say_hi()
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="Go" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
-  <img src="https://private-user-images.githubusercontent.com/7939043/481382230-8af825b7-fc42-4e0b-8aab-da9bba99b6e0.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQ5NDY3NDEsIm5iZiI6MTc2NDk0NjQ0MSwicGF0aCI6Ii83OTM5MDQzLzQ4MTM4MjIzMC04YWY4MjViNy1mYzQyLTRlMGItOGFhYi1kYTliYmE5OWI2ZTAucG5nP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MTIwNSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTEyMDVUMTQ1NDAxWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MDJhYmVlOTBmZjc3NzQyNTU3MmM3MTIwZDdjY2M4YzY3NmQ4Njk5NzNmMDY2YWY0ZWFiYzc4ZTQyODE1NGEwYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.8cxMXyvAV21Q06XQkaytJ6HkoRfCoMh6Kl8fChRfP30" alt="Noxy" width="63" height="63"/>
+  <img src="https://www.writeyournote.com/pics/4e2d9ad0fdba772de5cd2ee159b26c94.png" alt="Noxy" width="63" height="63"/>
 </p>
 
 ### Where to find me:  👇🏼 
